@@ -14,6 +14,9 @@ Model was used in a prototype that allows pregnant women to take a pic of any fo
 
 # Prototype Pics:
 ![HomePage](pics/HomePage.jpg)
+![Welcome](pics/Welcome.jpg)
+![Orange](pics/Orange.jpg)
+![Info](pics/Info.jpg)
 
 
 # Contact
